@@ -1,6 +1,6 @@
 # Stats507
 
-[PS2Q3.py](./PS2Q3.py) is a part of HW 6 for Stats 507.
+[HW6Q1.ipynb](./HW6Q1.ipynb) is a part of HW 6 for Stats 507.
 
 The script uses Pandas to read, clean, and append data files spanning the years 2011-2018 for the National Health and Nutrition Examination Survey NHANES, and for the oral health and dentition data.
 
